@@ -14,3 +14,5 @@
 [text formating](./learn_html/text_formating.md)
 
 [multimedia](./learn_html/multimedia.md)
+
+[embedding](./learn_html/embedding.md)
