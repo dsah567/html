@@ -16,3 +16,5 @@
 [multimedia](./learn_html/multimedia.md)
 
 [embedding](./learn_html/embedding.md)
+
+[responsive](./learn_html/responsive.md)
