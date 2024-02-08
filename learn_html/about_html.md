@@ -22,7 +22,7 @@
 
 >Anatomy of an HTML document
 
-```javascript 
+```html
 <!doctype html>
 <html lang="en-US">
   <head>
