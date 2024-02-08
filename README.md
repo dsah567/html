@@ -2,4 +2,4 @@
 
 ### **follow the sequence below**
 
-[about html](./learn_html/about_html)
+[about html](./learn_html/about_html.md)
