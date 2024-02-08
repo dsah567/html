@@ -10,3 +10,5 @@
 [reference for element and attribute](./learn_html/html_reference.md)
 
 [head and metadata](./learn_html/head_metadata.md)
+
+[text formating](./learn_html/text_formating.md)
